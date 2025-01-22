@@ -20,7 +20,6 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "a.elrahman.azzam@gmail.com",
-            "update_url": "https://github.com/a-azzam/youtube-long/blob/main/updates.json"
         }
     }
 
